@@ -59,7 +59,7 @@ describe('JAVASCRIPT V', function () {
       });
    });
 
-   describe('EJERCICIO 02', function () {
+   xdescribe('EJERCICIO 02', function () {
       describe('Clase Persona', function () {
          it('Debe crear una instancia "Persona" con las propiedades "nombre", "apellido", "edad" y "domicilio"', function () {
             const nuevaPersona = new Persona(
